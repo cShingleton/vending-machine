@@ -1,4 +1,4 @@
-# Project Title
+# Vending Machine
 
 This a basic project to practice the concept of writing decent unit tests.
 
