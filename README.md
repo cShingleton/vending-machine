@@ -14,7 +14,7 @@ None
 
 ## End-to-End Testing Result
 
-![testing result](https://github.com/melliflorGunk/vending-machine/raw/master/img/vending-results.png)
+![Testing Result ScreenShot](https://github.com/melliflorGunk/vending-machine/raw/master/img/vending-results.png)
 
 ## Built With
 
